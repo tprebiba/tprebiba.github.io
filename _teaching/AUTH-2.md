@@ -1,0 +1,16 @@
+---
+title: "PSB tracking with Xsuite"
+collection: teaching
+type: "Accelerator Physics"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Aristotle University of Thessaloniki (AUTH)"
+date: #2024-05-01
+location: "Online"
+---
+
+A series of Python and [Xsuite](https://xsuite.readthedocs.io/en/latest/) exercises for understanding the basics of transverse beam dynamics in synchrotrons. The CERN PSB is used as a representative example. Find it on [github](https://github.com/tprebiba/accelerators-teaching/tree/main/01_AUTH-2024_Accelerator_Physics).
+
+The exercises were prepared for the course of *Accelerator Physics* taught by Y. Papaphilippou and F. Asvesta in AUTH. The exercises are heavily based on the [Hands-On Lattice and Longitudinal Calculations - Python version](https://github.com/cerncas/hands-on-lattice-exercises) course of the [2023 CERN Accelerator School (CAS)](https://indico.cern.ch/event/1226773/) held in Santa Susanna, Spain.
+
+Contributed to the following courses:
+- Y. Papaphilippou and F. Asvesta, *Accelerator Physics*, AUTH, 2024 Summer Semester, Online.
