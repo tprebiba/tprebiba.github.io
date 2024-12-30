@@ -4,7 +4,7 @@ collection: teaching
 type: "Advanced Training School on Operation of Accelerators (ATSOA)"
 permalink: /teaching/2014-spring-teaching-1
 venue: "EUROLABS"
-date: #2024-06-10
+date: 2024-06-10
 location: "CERN, Meyrin, Switzerland"
 ---
 

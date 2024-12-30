@@ -4,7 +4,7 @@ collection: teaching
 type: "The Science of Particle Accelerators"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Joint Universities of Accelerator School (JUAS)"
-date: #2024-09-24
+date: 2024-09-24
 location: #"Santa Susanna, Spain"
 ---
 
