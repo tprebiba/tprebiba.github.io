@@ -2,7 +2,7 @@
 title: "Transverse Linear Imperfections"
 collection: teaching
 type: "The Science of Particle Accelerators"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2024-JUAS-linear-imperfections-4
 venue: "Joint Universities of Accelerator School (JUAS)"
 date: 2024-09-24
 location: #"Santa Susanna, Spain"

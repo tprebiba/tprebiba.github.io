@@ -2,7 +2,7 @@
 title: "Measurements, Optimization and Tracking in the PSB"
 collection: teaching
 type: "Advanced Training School on Operation of Accelerators (ATSOA)"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2024-EUROLABS-3
 venue: "EUROLABS"
 date: 2024-06-10
 location: "CERN, Meyrin, Switzerland"
