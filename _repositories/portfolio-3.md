@@ -10,4 +10,4 @@ It has been used during the Run 3 PSB commissioning for measuring and correcting
 
 Find the source code on [Gitlab](https://gitlab.cern.ch/tprebiba/k-modulation-analysis-application-for-psb-and-ps).
 
-<br/><img src='/images/k-mod-app.png' width='600'>
+<br/><img src='/images/k-mod-app.png' width='700'>

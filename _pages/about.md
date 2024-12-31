@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal space! Here you can find a collection of **articles**, **repositories**, **talks** and things that I find interesting. 
+Welcome to my personal space! Here, you'll find a collection of **repositories**, **articles**, **talks**, and other things that spark my curiosity.
 
-I am an accelerator physicist working at CERN. I am interested in **physics simulation codes**, **data analysis** and **physics outreach**. I am currently working on the beam intensity reach of the CERN injectors. 
+I'm an accelerator physicist at CERN, focusing on the beam intensity reach of the LHC injectors. I have a strong interest in **physics simulation codes**, **data analysis** and **physics outreach**.
 
-If you'd like to get in touch with me, find my contact information on the left :)
+Feel free to reach out &mdash; my contact information is just a click away :)
