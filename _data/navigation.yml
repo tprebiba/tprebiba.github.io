@@ -7,7 +7,7 @@
 main:
 
   - title: "Repositories"
-    url: /portfolio/
+    url: /repositories/
 
   - title: "Teaching"
     url: /teaching/  
