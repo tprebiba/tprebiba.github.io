@@ -13,8 +13,8 @@ A set of Python scripts for:
 Explore this repository on [Gitlab](https://gitlab.cern.ch/tprebiba/beam-analysis-sandbox/-/tree/master?ref_type=heads). 
 
 
-<br/><img src='/images/beamtools.png' width='400'>
+<br/><img src='/images/beamtools.png' width='450'>
 
 <br/><img src='/images/spectrum.png' width='600'>
 
-<br/><img src='/images/resonance-diagram.png' width='400'>
+<br/><img src='/images/resonance-diagram.png' width='300'>

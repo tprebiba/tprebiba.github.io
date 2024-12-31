@@ -1,6 +1,6 @@
 ---
-title: "Tracking the CERN PSB in Xsuite"
-excerpt: "Realistic PSB simulations in [Xsuite](https://xsuite.readthedocs.io/en/latest/). <br/><img src='/images/psb-tracking.png' width='400'>"
+title: "Tracking in the CERN PSB with Xsuite"
+excerpt: "Realistic PSB simulations with [Xsuite](https://xsuite.readthedocs.io/en/latest/). <br/><img src='/images/psb-tracking.png' width='400'>"
 collection: repositories
 ---
 
@@ -12,4 +12,4 @@ Read more on [Github](https://github.com/tprebiba/psb-xsuite-tracking).
 
 <br/><img src='/images/losses.png' width='400'>
 
-<br/><img src='/images/sc-tune-spread.png' width='400'>
+<br/><img src='/images/sc-tune-spread.png' width='300'>
