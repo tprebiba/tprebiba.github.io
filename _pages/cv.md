@@ -12,7 +12,11 @@ redirect_from:
 Education
 ======
 * **PhD in Accelerator Physics**, Goethe University Frankfurt, 2020-2023
+  - Thesis title: *Optimization of the High Brightness Beam Performance of the CERN PSB with H- Injection*. 
+  - Get the details [here](https://cds.cern.ch/record/2887279).
 * **Integrated Master in Applied Physics**, National Technical University of Athens, 2014-2019
+  - Thesis title: *Transverse Emittance and Brightness Studies in the CERN PSB*. 
+  - Get the details [here](https://indico.cern.ch/event/849052/contributions/3567761/attachments/1910604/3166227/semfe_thesis_tprebibaj_final.pdf).
 
 Employment History
 ======
