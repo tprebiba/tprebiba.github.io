@@ -4,7 +4,7 @@ collection: teaching
 type: "Accelerator Physics"
 permalink: /teaching/AUTH-Accelerator-Physics
 venue: "Aristotle University of Thessaloniki (AUTH)"
-date: 2025
+date: 2025-01-01
 order: 4
 location: "Online"
 ---
