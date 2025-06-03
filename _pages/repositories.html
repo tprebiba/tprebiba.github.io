@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "A selection of my repositories"
+permalink: /repositories/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.repositories %}
+  {% include archive-single.html %}
+{% endfor %}
+
