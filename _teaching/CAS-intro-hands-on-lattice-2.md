@@ -4,6 +4,7 @@ collection: teaching
 type: "Introduction to Accelerator Physics"
 permalink: /teaching/CAS-intro-hands-on-lattice
 venue: "CERN Accelerator School (CAS)"
+date: 2025
 order: 2
 location: #"Santa Susanna, Spain"
 ---

@@ -4,6 +4,7 @@ collection: teaching
 type: "The Science of Particle Accelerators"
 permalink: /teaching/JUAS-linear-imperfections
 venue: "Joint Universities of Accelerator School (JUAS)"
+date: 2025
 order: 1
 location: #"Santa Susanna, Spain"
 ---
