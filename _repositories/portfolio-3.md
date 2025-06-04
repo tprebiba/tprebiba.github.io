@@ -10,4 +10,4 @@ It includes tools for lattice generation, octupole and RF settings, machine impe
 
 Explore this repository on [Github](https://github.com/tprebiba/sps-xsuite-tracking).
 
-<br/><img src='/images/tunespread_natChroma_fullBunch_setOctupoles_epsx_8p0_epsy_5p0.png' width='300'>
+<br/><img src='/images/tunespread_natChroma_fullBunch_setOctupoles_epsx_8p0_epsy_5p0.png' width='500'>
