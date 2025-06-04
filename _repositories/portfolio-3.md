@@ -9,3 +9,5 @@ This repository provides a full simulation pipeline for realistic modeling of be
 It includes tools for lattice generation, octupole and RF settings, machine imperfections, wakefields and space charge effects, tracking and output analysis. 
 
 Explore this repository on [Github](https://github.com/tprebiba/sps-xsuite-tracking).
+
+<br/><img src='/images/tunespread_natChroma_fullBunch_setOctupoles_epsx_8p0_epsy_5p0.png' width='300'>
