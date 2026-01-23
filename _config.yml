@@ -21,7 +21,7 @@ repository               : "tprebiba/tprebiba.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.jpg"
+  avatar           : "profile2b.png"
   name             : "Tirsi Prebibaj"
   pronouns         : # example: "she/her"  
   bio              : "Accelerator physics, data analysis and physics outreach."

@@ -8,6 +8,6 @@ A [PyQt](https://wiki.python.org/moin/PyQt) GUI for measuring and correcting the
 
 This application has been used during the Run 3 PSB commissioning for measuring and correcting the injection chicane induced beta-beating and tune distortions. 
 
-Find the source code on [Gitlab](https://gitlab.cern.ch/tprebiba/k-modulation-analysis-application-for-psb-and-ps).
+Find the source code on [Gitlab](https://gitlab.cern.ch/tprebiba/k-mod-app-psb-ps).
 
 <br/><img src='/images/k-mod-app.png' width='700'>
