@@ -10,9 +10,7 @@ author_profile: true
   To add a paper, copy an entry in that file and edit it.
 {% endcomment %}
 
-{% if site.author.googlescholar %}
-  <p class="page__intro">Also on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
-{% endif %}
+<p class="page__intro">Also on <a href="{{ site.author.orcid }}">ORCID</a> and <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
 
 {% assign pubs_by_year = site.data.publications | group_by_exp: "p", "p.date | slice: 0, 4" %}
 {% for year in pubs_by_year %}
