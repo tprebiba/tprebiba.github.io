@@ -5,32 +5,39 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% comment %}
+  Papers come from _data/publications.yml (newest first), grouped by year.
+  To add a paper, copy an entry in that file and edit it.
+{% endcomment %}
+
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <p class="page__intro">Also on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
 {% endif %}
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
+{% assign pubs_by_year = site.data.publications | group_by_exp: "p", "p.date | slice: 0, 4" %}
+{% for year in pubs_by_year %}
+  <h2 class="archive__subtitle">{{ year.name }}</h2>
+  <ol class="pub-list">
+  {% for p in year.items %}
+    {% assign main_link = p.links.doi | default: p.links.pdf | default: p.links.cds | default: p.links.arxiv | default: p.links.edms %}
+    <li class="pub">
+      <span class="pub__title">{% if main_link %}<a href="{{ main_link }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</span>
+      <span class="pub__venue">{{ p.venue }}</span>
+      <span class="pub__authors">
+        {%- for a in p.authors -%}
+          {%- if a contains "Prebibaj" -%}<strong>{{ a }}</strong>{%- else -%}{{ a }}{%- endif -%}
+          {%- unless forloop.last -%}, {% endunless -%}
+        {%- endfor -%}
+        {%- if p.n_authors %} et al. ({{ p.n_authors }} authors){% endif -%}
+      </span>
+      <span class="pub__links">
+        {%- if p.links.doi %} <a href="{{ p.links.doi }}">DOI</a>{% endif -%}
+        {%- if p.links.pdf %} <a href="{{ p.links.pdf }}">PDF</a>{% endif -%}
+        {%- if p.links.cds %} <a href="{{ p.links.cds }}">CDS</a>{% endif -%}
+        {%- if p.links.arxiv %} <a href="{{ p.links.arxiv }}">arXiv</a>{% endif -%}
+        {%- if p.links.edms %} <a href="{{ p.links.edms }}">EDMS</a>{% endif -%}
+      </span>
+    </li>
   {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+  </ol>
+{% endfor %}

@@ -1,0 +1,409 @@
+# Publications list, rendered on /publications/ grouped by year.
+# Generated from INSPIRE-HEP and CDS, then edited by hand. Newest first.
+# Fields: date (YYYY-MM), title, venue, authors, n_authors (if list is shortened), links.
+
+- date: "2026-05"
+  title: "Sensitivity of FCC-ee beam performance to resonance driving terms in the presence of beam–beam interactions"
+  venue: "Proc. IPAC'26, Deauville, France, paper MOP1040"
+  authors: ["T. Prebibaj", "T. Pieloni", "L. van Riesen-Haupt", "M. Seidel", "X. Buffat"]
+  links:
+    pdf: "https://www.ipac26.org/prepress/pdf/MOP1040.pdf"
+    # doi: "https://doi.org/10.18429/JACoW-IPAC2026-MOP1040"  (enable once the DOI resolves)
+
+- date: "2026-05"
+  title: "Simulations of phase-advance correction for FCC-ee and impact on its performance"
+  venue: "Proc. IPAC'26, Deauville, France, paper MOP1077"
+  authors: ["T. Prebibaj", "T. Pieloni", "Y. Wu", "L. Sievert", "L. van Riesen-Haupt", "M. Seidel", "P. Raimondi"]
+  links:
+    pdf: "https://www.ipac26.org/prepress/pdf/MOP1077.pdf"
+    # doi: "https://doi.org/10.18429/JACoW-IPAC2026-MOP1077"  (enable once the DOI resolves)
+
+- date: "2026-05"
+  title: "FCC-ee optics tuning – towards the reference design"
+  venue: "Proc. IPAC'26, Deauville, France, paper MOP1039"
+  authors: ["J. Keintzel", "A. Hussain", "A. Vorozhtsov", "A. Kastrinellis", "C. Eriksson", "C. Carli", "C. Goffing", "E. Maclean", "…", "T. Prebibaj"]
+  n_authors: 48
+  links:
+    pdf: "https://www.ipac26.org/prepress/pdf/MOP1039.pdf"
+    # doi: "https://doi.org/10.18429/JACoW-IPAC2026-MOP1039"  (enable once the DOI resolves)
+
+- date: "2026-05"
+  title: "Beam performance reach at CERN PSB for the ISOLDE facility"
+  venue: "Proc. IPAC'26, Deauville, France, paper THP4012"
+  authors: ["F. Asvesta", "A. Findlay", "A. Rodriguez", "C. Bracco", "E. Piselli", "G. Di Giovanni", "G. Gnemmi", "I. Frank", "…", "T. Prebibaj"]
+  n_authors: 17
+  links:
+    pdf: "https://www.ipac26.org/prepress/pdf/THP4012.pdf"
+    # doi: "https://doi.org/10.18429/JACoW-IPAC2026-THP4012"  (enable once the DOI resolves)
+
+- date: "2026-05"
+  title: "Modelling transition energy crossing in the CERN proton synchrotron via tracking simulations with Xsuite"
+  venue: "Proc. IPAC'26, Deauville, France, paper THP5008"
+  authors: ["M. Bozatzis", "D. Amorim", "F. Asvesta", "H. Bartosik", "G. Iadarola", "N. Mounet", "T. Prebibaj"]
+  links:
+    pdf: "https://www.ipac26.org/prepress/pdf/THP5008.pdf"
+    # doi: "https://doi.org/10.18429/JACoW-IPAC2026-THP5008"  (enable once the DOI resolves)
+
+- date: "2026-05"
+  title: "ATSOA at CERN: A Hands On Accelerator Course in the EURO-LABS Framework"
+  venue: "Proc. IPAC'26, Deauville, France, paper TUP8014"
+  authors: ["F. Asvesta", "D. Gamba", "I. Efthymiopoulos", "L. Ponce", "M. Slupecki", "M. Jebramcik", "M. Lozano Benito", "R. Corsini", "T. Argyropoulos", "T. Prebibaj", "W. Farabolini", "M. Garcia Borje", "P. Korysko"]
+  links:
+    pdf: "https://www.ipac26.org/prepress/pdf/TUP8014.pdf"
+    # doi: "https://doi.org/10.18429/JACoW-IPAC2026-TUP8014"  (enable once the DOI resolves)
+
+- date: "2026-05"
+  title: "Mitigating the periodic resonance crossing in high-intensity bunches by multi-RF"
+  venue: "Proc. IPAC'26, Deauville, France, paper WEP5079"
+  authors: ["G. Franchetti", "F. Asvesta", "H. Bartosik", "S. Albright", "T. Prebibaj"]
+  links:
+    pdf: "https://www.ipac26.org/prepress/pdf/WEP5079.pdf"
+    # doi: "https://doi.org/10.18429/JACoW-IPAC2026-WEP5079"  (enable once the DOI resolves)
+
+- date: "2026-05"
+  title: "Data-Driven Optimization of Open Loop Control Functions at the CERN Super Proton Synchrotron"
+  venue: "Proc. IPAC'26, Deauville, France, paper WEP6016"
+  authors: ["A. Menor de Onate", "M. Schenk", "B. Rodriguez Mateos", "T. Prebibaj", "V. Kain", "I. Mases"]
+  links:
+    pdf: "https://www.ipac26.org/prepress/pdf/WEP6016.pdf"
+    # doi: "https://doi.org/10.18429/JACoW-IPAC2026-WEP6016"  (enable once the DOI resolves)
+
+- date: "2026-05"
+  title: "Space-charge effects during half-integer resonance crossing in the CERN Proton Synchrotron Booster"
+  venue: "Phys. Rev. Accel. Beams 29, 054201 (2026)"
+  authors: ["T. Prebibaj", "F. Antoniou", "F. Asvesta", "H. Bartosik", "G. Franchetti"]
+  links:
+    doi: "https://doi.org/10.1103/rhdk-191j"
+    cds: "https://cds.cern.ch/record/2971446"
+    arxiv: "https://arxiv.org/abs/2511.18044"
+
+- date: "2025-11"
+  title: "Spill Optimisation for Experiments"
+  venue: "CERN EDMS 3348121 (SPSX-O-EN-0001), Engineering/Technical Note, CERN internal"
+  authors: ["P. Arrutia", "D. Banerjee", "R. Franqueira Ximenes", "A. Gorn", "T. Prebibaj"]
+  links:
+    edms: "https://edms.cern.ch/document/3348121/1.0"
+
+- date: "2025-11"
+  title: "Studies on the Future Beam Sharing Across the CERN Injector Complex"
+  venue: "CERN EDMS 3288709 (ACC-OP-EN-0001), Engineering/Technical Note, restricted access"
+  authors: ["T. Prebibaj", "P. Arrutia", "D. Banerjee", "H. Bartosik", "A. Huschauer"]
+  links:
+    edms: "https://edms.cern.ch/document/3288709/1.0"
+
+- date: "2025-06"
+  title: "Magnetic cycle optimisation in the CERN PS booster"
+  venue: "Proc. IPAC'25, Taipei, Taiwan, paper TUPS026"
+  authors: ["S. Albright", "A. Newborough", "F. Asvesta", "G. P. Di Giovanni", "M. Marchi", "T. Prebibaj"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2025-TUPS026"
+    cds: "https://cds.cern.ch/record/2953977"
+
+- date: "2025-06"
+  title: "Preparing the future SPS fixed target beams for the SHiP experiment"
+  venue: "Proc. IPAC'25, Taipei, Taiwan, paper MOPS028"
+  authors: ["T. Prebibaj", "C. Zannini", "F. Asvesta", "G. Papotti", "H. Bartosik", "H. Damerau", "I. Mases", "K. Li"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2025-MOPS028"
+    cds: "https://cds.cern.ch/record/2953589"
+
+- date: "2025-05"
+  title: "Summary Report of the Physics Beyond Colliders Study at CERN"
+  venue: "CERN-PBC-REPORT-2025-003"
+  authors: ["R. Alemany Fernández", "M. Au", "G. Arduini", "L. Bandiera", "D. Banerjee", "H. Bartosik", "J. Bernhard", "D. Boer", "…", "T. Prebibaj"]
+  n_authors: 83
+  links:
+    cds: "https://cds.cern.ch/record/2927631"
+    arxiv: "https://arxiv.org/abs/2505.00947"
+
+- date: "2025-04"
+  title: "SHiP experiment at the SPS Beam Dump Facility"
+  venue: "CERN-SHiP-PROC-2025-001"
+  authors: ["R. Albanese", "K. Albrecht", "J. Alt", "A. Alexandrov", "F. Alessio", "S. Aoki", "D. Aritunov", "N. Azorskiy", "…", "T. Prebibaj"]
+  n_authors: 295
+  links:
+    cds: "https://cds.cern.ch/record/2929845"
+    arxiv: "https://arxiv.org/abs/2504.06692"
+
+- date: "2025-04"
+  title: "Estimates of Particles on Target for Future Ion Experiments in the SPS North Area"
+  venue: "CERN-PBC-Notes-2025-009"
+  authors: ["T. Prebibaj", "C. Ahdida", "R. Alemany Fernandez", "G. Arduini", "P. Arrutia", "H. Bartosik", "N. Charitonidis", "M. Van Dijk"]
+  links:
+    cds: "https://cds.cern.ch/record/2929607"
+
+- date: "2025-03"
+  title: "European Strategy for Particle Physics 2026: the NA60+/DiCE experiment at the SPS"
+  venue: "Input to the European Strategy for Particle Physics 2026, arXiv:2503.23872"
+  authors: ["C. Ahdida", "G. Alocco", "M. Arba", "R. Arnaldi", "S. Beole", "A. Beraudo", "J. Bernhard", "L. Bianchi", "…", "T. Prebibaj"]
+  n_authors: 70
+  links:
+    cds: "https://cds.cern.ch/record/2929783"
+    arxiv: "https://arxiv.org/abs/2503.23872"
+
+- date: "2025-03"
+  title: "Ion beams requirements for the North Area Experiments post-LS3"
+  venue: "CERN-PBC-REPORT-2025-002"
+  authors: ["C. Ahdida", "R. Alemany Fernandez", "G. Arduini", "P. Arrutia", "K. Balazs", "H. Bartosik", "J. Bernhard", "D. Boer", "…", "T. Prebibaj"]
+  n_authors: 36
+  links:
+    cds: "https://cds.cern.ch/record/2926928"
+
+- date: "2025-01"
+  title: "BDF/SHiP Annual Report 2025"
+  venue: "CERN-SPSC-2025-039"
+  authors: ["R. Albanese", "K. Albrecht", "A. Alexandrov", "F. Alessio", "F. Aloschi", "S. Aoki", "D. Aritunov", "A. Anokhina", "…", "T. Prebibaj"]
+  n_authors: 297
+  links:
+    cds: "https://cds.cern.ch/record/2948477"
+
+- date: "2025-01"
+  title: "NA60+/DiCE: study of rare probes of the Quark-Gluon Plasma at SPS energies"
+  venue: "CERN-SPSC-2025-023"
+  authors: ["C. Ahdida", "G. Alocco", "M. Arba", "R. Arnaldi", "S. Beole", "J. Bernhard", "L. Bianchi", "I. Bilinskyi", "…", "T. Prebibaj"]
+  n_authors: 74
+  links:
+    cds: "https://cds.cern.ch/record/2932302"
+
+- date: "2024-05"
+  title: "Resonance compensation at the CERN PS booster aided by Bayesian optimization and BOBYQA"
+  venue: "Proc. IPAC'24, Nashville, TN, USA, paper MOPS17"
+  authors: ["C. Gonzalez-Ortiz", "F. Asvesta", "R. Ainsworth", "T. Prebibaj"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2024-MOPS17"
+    cds: "https://cds.cern.ch/record/2912365"
+
+- date: "2024-05"
+  title: "Optics design of a compact helium synchrotron for advanced cancer therapy"
+  venue: "Proc. IPAC'24, Nashville, TN, USA, paper THPC13"
+  authors: ["H. Huttunen", "F. Asvesta", "E. Benedetto", "D. Flier", "L. Bottura", "T. Prebibaj", "R. Taylor", "M. Vretenar"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2024-THPC13"
+    cds: "https://cds.cern.ch/record/2930706"
+
+- date: "2024-05"
+  title: "Performance improvement studies of the fixed target beams along the CERN injector chain"
+  venue: "Proc. IPAC'24, Nashville, TN, USA, paper THPC14"
+  authors: ["T. Prebibaj", "A. Huschauer", "F. Asvesta", "F. Velotti", "G. P. Di Giovanni", "H. Bartosik", "H. Damerau", "K. Li", "M. Fraser", "M. Schenk"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2024-THPC14"
+    cds: "https://cds.cern.ch/record/2906531"
+
+- date: "2024-05"
+  title: "Xsuite: an integrated beam physics simulation framework"
+  venue: "Proc. IPAC'24, Nashville, TN, USA, paper WEPR56"
+  authors: ["G. Iadarola", "A. Latina", "A. Abramov", "C. E. Montanari", "C. Droin", "D. Di Croce", "D. Demetriadou", "F. Soubelet", "…", "T. Prebibaj"]
+  n_authors: 26
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2024-WEPR56"
+    cds: "https://cds.cern.ch/record/2912920"
+
+- date: "2024-05"
+  title: "Intensity reach in the CERN PSB with the high-current LINAC4 source"
+  venue: "Proc. IPAC'24, Nashville, TN, USA, paper TUPS31"
+  authors: ["T. Prebibaj", "C. Bracco", "E. Sargsyan", "F. Asvesta", "G. P. Di Giovanni", "G. Bellodi", "H. Bartosik", "J.-B. Lallement", "M. Marchi", "P. Skowronski", "S. Albright"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2024-TUPS31"
+    cds: "https://cds.cern.ch/record/2906530"
+
+- date: "2024-05"
+  title: "Intensity reach of the barrier-bucket multi-turn transfer for fixed-target proton beam from PS to SPS"
+  venue: "Proc. IPAC'24, Nashville, TN, USA, paper TUPS32"
+  authors: ["H. Damerau", "A. Huschauer", "A. Lasheen", "M. Cuvelier", "M. Vadai", "T. Prebibaj"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2024-TUPS32"
+    cds: "https://cds.cern.ch/record/2912909"
+
+- date: "2024-05"
+  title: "Measurements of beam correlations induced via coupled resonance crossing in the CERN PSB"
+  venue: "Proc. IPAC'24, Nashville, TN, USA, paper TUPC07"
+  authors: ["E. Lamb", "F. Asvesta", "G. Franchetti", "G. Sterbini", "H. Bartosik", "M. Seidel", "S. Albright", "T. Prebibaj"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2024-TUPC07"
+    cds: "https://cds.cern.ch/record/2913149"
+
+- date: "2024-05"
+  title: "Tail population studies in the CERN Proton Synchrotron"
+  venue: "Proc. IPAC'24, Nashville, TN, USA, paper THPC15"
+  authors: ["M. Bozatzis", "F. Asvesta", "H. Bartosik", "A. Huschauer", "A. Lasheen", "E. Maclean", "T. Prebibaj", "W. Van Goethem"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2024-THPC15"
+    cds: "https://cds.cern.ch/record/2913148"
+
+- date: "2023-10"
+  title: "Experimental Investigations on the High-Intensity Effects Near the Half-Integer Resonance in the PSB"
+  venue: "Proc. HB2023, Geneva, Switzerland, paper THBP19"
+  authors: ["T. Prebibaj", "F. Antoniou", "F. Asvesta", "H. Bartosik", "G. Franchetti"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-HB2023-THBP19"
+    cds: "https://cds.cern.ch/record/2900909"
+
+- date: "2023-10"
+  title: "Pushing High Intensity and High Brightness Limits in the CERN PSB after the LIU Upgrades"
+  venue: "Proc. HB2023, Geneva, Switzerland, paper THBP09"
+  authors: ["F. Asvesta", "S. Albright", "H. Bartosik", "C. Bracco", "G. P. Di Giovanni", "T. Prebibaj"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-HB2023-THBP09"
+    cds: "https://cds.cern.ch/record/2900904"
+
+- date: "2023-10"
+  title: "Beam Performance with the LHC Injectors Upgrade"
+  venue: "Proc. HB2023, Geneva, Switzerland, paper MOA1I1"
+  authors: ["C. zannini", "R. Wegner", "C. Vollinger", "R. Veness", "F. Velotti", "M. Sullivan", "R. Steerenberg", "A. Spierer", "…", "T. Prebibaj"]
+  n_authors: 112
+  links:
+    doi: "https://doi.org/10.18429/JACoW-HB2023-MOA1I1"
+    cds: "https://cds.cern.ch/record/2900871"
+
+- date: "2023-10"
+  title: "Analytical and Numerical Studies on Kicked Beams in the Context of Half-Integer Studies"
+  venue: "Proc. HB2023, Geneva, Switzerland, paper WEA1I2"
+  authors: ["G. Franchetti", "F. Asvesta", "H. Bartosik", "T. Prebibaj"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-HB2023-WEA1I2"
+    cds: "https://cds.cern.ch/record/2900872"
+
+- date: "2023-10"
+  title: "Post-LS3 Experimental Options in ECN3"
+  venue: "CERN-PBC-REPORT-2023-003"
+  authors: ["C. Ahdida", "G. Arduini", "K. Balazs", "H. Bartosik", "J. Bernhard", "A. Boyarsky", "J. Brod", "M. Brugger", "…", "T. Prebibaj"]
+  n_authors: 50
+  links:
+    cds: "https://cds.cern.ch/record/2867743"
+    arxiv: "https://arxiv.org/abs/2310.17726"
+
+- date: "2023-06"
+  title: "Optimization of the high brightness beam performance of the CERN PSB with H-injection"
+  venue: "PhD thesis, Goethe University Frankfurt, CERN-THESIS-2023-322"
+  authors: ["T. Prebibaj"]
+  links:
+    cds: "https://cds.cern.ch/record/2887279"
+
+- date: "2023-05"
+  title: "Characterization of transverse profiles along the LHC injector chain at CERN"
+  venue: "Proc. IPAC'23, Venice, Italy, paper WEPL158"
+  authors: ["F. Asvesta", "A. Huschauer", "A. Lasheen", "B. Salvant", "B. Mikulec", "C. Zannini", "D. Cotte", "E. de la Fuente", "G. P. Di Giovanni", "G. Rumolo", "H. Bartosik", "I. Mases", "S. Joly", "T. Prebibaj"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2023-WEPL158"
+    cds: "https://cds.cern.ch/record/2883860"
+
+- date: "2023-05"
+  title: "Investigating the feasibility of delivering higher intensity proton beams to ECN3 at the CERN SPS North Area"
+  venue: "Proc. IPAC'23, Venice, Italy, paper MOPA084"
+  authors: ["M. Fraser", "C. Ahdida", "G. Arduini", "P. A. Arrutia Sota", "H. Bartosik", "J. Bernhard", "M. Calviani", "A. Colinet", "…", "T. Prebibaj"]
+  n_authors: 33
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2023-MOPA084"
+    cds: "https://cds.cern.ch/record/2885895"
+
+- date: "2023-05"
+  title: "Tailoring transverse beam characteristics with the new CERN PS Booster charge-exchange injection system"
+  venue: "Proc. IPAC'23, Venice, Italy, paper TUPM118"
+  authors: ["E. Renner", "S. Albright", "F. Antoniou", "F. Asvesta", "H. Bartosik", "C. Bracco", "G. Di Giovanni", "B. Mikulec", "T. Prebibaj", "P. Skowronski", "F. Velotti"]
+  links:
+    doi: "https://doi.org/10.1088/1742-6596/2687/5/052031"
+    cds: "https://cds.cern.ch/record/2897882"
+
+- date: "2023-02"
+  title: "SPS Operation and Future Proton Sharing Scenarios for the ECN3 facility"
+  venue: "CERN-PBC-Notes-2023-001"
+  authors: ["T. Prebibaj", "G. Arduini", "H. Bartosik", "M. A. Fraser"]
+  links:
+    cds: "https://cds.cern.ch/record/2848908"
+
+- date: "2023-01"
+  title: "Findings of the Physics Beyond Colliders ECN3 Beam Delivery Task Force"
+  venue: "CERN-PBC-REPORT-2023-001"
+  authors: ["C. Ahdida", "H. Bartosik", "J. Bernhard", "M. Brugger", "M. Calviani", "A. Colinet", "L. S. Esposito", "R. Franqueira Ximenes", "…", "T. Prebibaj"]
+  n_authors: 30
+  links:
+    cds: "https://cds.cern.ch/record/2847433"
+
+- date: "2022-06"
+  title: "Achievements and Performance Prospects of the Upgraded LHC Injectors"
+  venue: "Proc. IPAC'22, Bangkok, Thailand, paper WEIYGD1"
+  authors: ["V. Kain", "S. Albright", "R. Alemany-Fernández", "M. E. Angoletta", "F. Antoniou", "T. Argyropoulos", "F. Asvesta", "B. Balhan", "…", "T. Prebibaj"]
+  n_authors: 67
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2022-WEIYGD1"
+    cds: "https://cds.cern.ch/record/2845730"
+
+- date: "2022-06"
+  title: "Studies on the Vertical Half-Integer Resonance in the CERN PS Booster"
+  venue: "Proc. IPAC'22, Bangkok, Thailand, paper MOPOST058"
+  authors: ["T. Prebibaj", "F. Antoniou", "F. Asvesta", "H. Bartosik", "G. Franchetti"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2022-MOPOST058"
+    cds: "https://cds.cern.ch/record/2845768"
+
+- date: "2022-06"
+  title: "Characterization of the Vertical Beam Tails in the CERN PS Booster"
+  venue: "Proc. IPAC'22, Bangkok, Thailand, paper MOPOST057"
+  authors: ["T. Prebibaj", "F. Antoniou", "F. Asvesta", "H. Bartosik", "C. Bracco", "G. P. Di Giovanni", "E. Renner"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2022-MOPOST057"
+    cds: "https://cds.cern.ch/record/2845774"
+
+- date: "2021-10"
+  title: "Resonance Compensation for High Intensity and High Brightness Beams in the CERN PSB"
+  venue: "Proc. HB2021, Batavia, IL, USA, paper MOP06"
+  authors: ["F. Asvesta", "S. Albright", "F. Antoniou", "H. Bartosik", "C. Bracco", "G. P. Di Giovanni", "E. Maclean", "B. Mikulec", "T. Prebibaj", "E. Renner"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-HB2021-MOP06"
+    cds: "https://cds.cern.ch/record/2841816"
+
+- date: "2021-10"
+  title: "Injection Chicane Beta-Beating Correction for Enhancing the Brightness of the CERN PSB Beams"
+  venue: "Proc. HB2021, Batavia, IL, USA, paper MOP18"
+  authors: ["T. Prebibaj", "S. Albright", "F. Antoniou", "F. Asvesta", "H. Bartosik", "C. Bracco", "G. P. Di Giovanni", "E. Maclean", "B. Mikulec", "E. Renner"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-HB2021-MOP18"
+    cds: "https://cds.cern.ch/record/2841810"
+
+- date: "2021-10"
+  title: "Optimised Transverse Painting Schemes for the New 160 MeV H⁻ Injection System at CERN"
+  venue: "Proc. HB2021, Batavia, IL, USA, paper MOP19"
+  authors: ["E. Renner", "S. Albright", "F. Antoniou", "F. Asvesta", "H. Bartosik", "C. Bracco", "G. P. Di Giovanni", "B. Mikulec", "T. Prebibaj", "F. Velotti"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-HB2021-MOP19"
+    cds: "https://cds.cern.ch/record/2841826"
+
+- date: "2021-10"
+  title: "The PS Booster Alignment Campaign and a New Tune Control Implementation After the LHC Injectors Upgrade at CERN"
+  venue: "Proc. HB2021, Batavia, IL, USA, paper MOP14"
+  authors: ["F. Antoniou", "F. Asvesta", "H. Bartosik", "J.-F. Comblin", "G. P. Di Giovanni", "M. Hostettler", "A. Huschauer", "B. Mikulec", "J.-M. Nonglaton", "T. Prebibaj"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-HB2021-MOP14"
+    cds: "https://cds.cern.ch/record/2841813"
+
+- date: "2021-05"
+  title: "Beam Commissioning of the New 160 MeV H⁻ Injection System of the CERN PS Booster"
+  venue: "Proc. IPAC'21, Campinas, Brazil, paper WEPAB210"
+  authors: ["E. Renner", "S. Albright", "F. Antoniou", "F. Asvesta", "H. Bartosik", "C. Bracco", "G. P. Di Giovanni", "L. O. Jorat", "E. H. Maclean", "M. Meddahi", "B. Mikulec", "T. Prebibaj", "G. Rumolo", "P. Skowroński", "W. Weterings"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2021-WEPAB210"
+    cds: "https://cds.cern.ch/record/2812722"
+
+- date: "2021-05"
+  title: "Optics Measurement by Excitation of Betatron Oscillations in the CERN PSB"
+  venue: "Proc. IPAC'21, Campinas, Brazil, paper THPAB168"
+  authors: ["E. H. Maclean", "F. Antoniou", "F. Asvesta", "H. Bartosik", "C. Bracco", "J. W. Dilly", "E. Fol", "H. Garcia Morales", "…", "T. Prebibaj"]
+  n_authors: 21
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2021-THPAB168"
+    cds: "https://cds.cern.ch/record/2811424"
+
+- date: "2020-01"
+  title: "Space Charge simulations for the ISOLDE beam in the PS Booster with and without longitudinal painting"
+  venue: "CERN-ACC-Note-2020-0044"
+  authors: ["S. Albright", "F. Antoniou", "F. Asvesta", "H. Bartosik", "C. Bracco", "Y. Papaphilippou", "T. Prebibaj", "E. Renner"]
+  links:
+    cds: "https://cds.cern.ch/record/2731917"
+
+- date: "2019-05"
+  title: "Transverse emittance studies at extraction of the CERN PS Booster"
+  venue: "Proc. IPAC'19, Melbourne, Australia, paper MOPTS087"
+  authors: ["F. Antoniou", "S. Albright", "F. Asvesta", "H. Bartosik", "G. P. Di Giovanni", "V. Forte", "M. Fraser", "A. Valdivieso", "A. Huschauer", "B. Mikulec", "T. Prebibaj", "A. Santamaría García", "P. Skowroński"]
+  links:
+    doi: "https://doi.org/10.18429/JACoW-IPAC2019-MOPTS087"
+    cds: "https://cds.cern.ch/record/2695091"
