@@ -6,14 +6,14 @@ locale                   : "en-US"
 title                    : "Home page"
 title_separator          : "-"
 name                     : "Tirsi Prebibaj"
-description              : "personal description"
+description              : "Accelerator physicist at EPFL working on beam-beam effects for the Future Circular Collider (FCC)."
 url                      : https://tprebiba.github.io
 baseurl                  : ""
 repository               : "tprebiba/tprebiba.github.io"
 
 # Sidebar author profile (see _includes/author-profile.html for all supported fields)
 author:
-  avatar           : "profile2b.png"
+  avatar           : "profile.png"
   name             : "Tirsi Prebibaj"
   bio              : "Accelerator physics, data analysis and physics outreach."
   location         : "Switzerland"
@@ -45,7 +45,7 @@ breadcrumbs              : false
 future                   : true
 read_more                : "disabled"
 atom_feed:
-  hide                   : false
+  hide                   : true   # no blog posts, so the feed would be empty
 
 # Reading files
 include:

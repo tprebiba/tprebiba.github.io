@@ -1,0 +1,26 @@
+{% include base_path %}
+{% comment %}
+  One course in the Teaching list. Shows the venue, the years taught
+  (each linking to that edition) and a link to the course material.
+{% endcomment %}
+<div class="list__item">
+  <article class="archive__item entry">
+    <h2 class="archive__item-title">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+    </h2>
+    <p class="entry__meta">
+      {{ post.venue }}{% if post.course %} · <em>{{ post.course }}</em>{% endif %}
+    </p>
+    {% if post.editions %}
+    <p class="entry__years">
+      {% for e in post.editions %}
+        {% if e.url %}<a class="year-chip" href="{{ e.url }}" title="{{ e.where }}">{{ e.year }}</a>{% else %}<span class="year-chip" title="{{ e.where }}">{{ e.year }}</span>{% endif %}
+      {% endfor %}
+    </p>
+    {% endif %}
+    {% if post.excerpt %}<div class="archive__item-excerpt">{{ post.excerpt | markdownify }}</div>{% endif %}
+    {% if post.material %}
+    <p class="entry__links"><a href="{{ post.material }}"><i class="fab fa-github" aria-hidden="true"></i> Course material</a></p>
+    {% endif %}
+  </article>
+</div>

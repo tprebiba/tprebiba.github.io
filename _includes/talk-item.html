@@ -1,0 +1,17 @@
+{% include base_path %}
+{% comment %}
+  One talk in the Talks list. The title links straight to the slides
+  (`link` in front matter) when available, otherwise to the talk's page.
+{% endcomment %}
+<div class="list__item">
+  <article class="archive__item entry">
+    <h2 class="archive__item-title">
+      <a href="{% if post.link %}{{ post.link }}{% else %}{{ base_path }}{{ post.url }}{% endif %}">{{ post.title }}</a>
+    </h2>
+    <p class="entry__meta">
+      <i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: "%-d %b %Y" }}
+      · {{ post.venue }}{% if post.location %} · {{ post.location }}{% endif %}
+    </p>
+    {% if post.excerpt %}<div class="archive__item-excerpt">{{ post.excerpt | markdownify }}</div>{% endif %}
+  </article>
+</div>

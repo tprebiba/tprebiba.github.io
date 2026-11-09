@@ -1,17 +1,25 @@
 ---
 title: "Hands-on Lattice Calculations in Python"
 collection: teaching
-type: "Introduction to Accelerator Physics"
 permalink: /teaching/CAS-intro-hands-on-lattice
 venue: "CERN Accelerator School (CAS)"
-date: 2025-01-01
-order: 2
-location: #"Santa Susanna, Spain"
+course: "Introduction to Accelerator Physics"
+material: "https://github.com/cerncas/hands-on-lattice-exercises"
+order: 1
+editions:
+  - year: 2026
+    url: "https://indico.cern.ch/event/1622828/"
+  - year: 2025
+    url: "https://indico.cern.ch/event/1483926/"
+    where: "Santa Susanna, Spain"
+  - year: 2024
+    url: "https://indico.cern.ch/event/1356988/"
+    where: "Santa Susanna, Spain"
+  - year: 2023
+    url: "https://indico.cern.ch/event/1226773/"
+    where: "Santa Susanna, Spain"
 ---
 
-The *Hands-on Lattice Calculations in Python* course is meant to present a series of "conceptual" exercises to help understanding the basics of transverse beam dynamics. The course material is available on [github](https://github.com/cerncas/hands-on-lattice-exercises). 
+A series of "conceptual" exercises to help understand the basics of transverse beam dynamics.
 
-Contributed to the following schools:
-- [CAS 2025](https://indico.cern.ch/event/1483926/), *Introduction to Accelerator Physics*, Santa Susana, Spain
-- [CAS 2024](https://indico.cern.ch/event/1356988/), *Introduction to Accelerator Physics*, Santa Susana, Spain
-- [CAS 2023](https://indico.cern.ch/event/1226773/), *Introduction to Accelerator Physics*, Santa Susana, Spain
+{% include teaching-editions.html %}

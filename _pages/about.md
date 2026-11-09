@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal space! Here, you'll find a collection of **repositories**, **articles**, **talks**, and other things that spark my curiosity.
+Welcome to my personal space! Here, you'll find a collection of **repositories**, **teaching material**, **talks**, and other things that spark my curiosity.
 
 I am a postdoctoral researcher at EPFL, studying beam-beam effects for the Future Circular Collider (FCC) - the next-generation particle collider designed to succeed the LHC. I have a strong interest in **physics simulation codes**, **data analysis** and **physics outreach**.
 

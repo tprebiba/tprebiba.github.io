@@ -1,7 +1,11 @@
 ---
 title: "Beam Analysis Sandbox"
-excerpt: "A collection of Python tools for accelerator beam dynamics analysis and operations. <br/><img src='/images/beamtools.png' width='400'>"
+excerpt: "A collection of Python tools for accelerator beam dynamics analysis and operations."
 collection: repositories
+thumbnail: "beamtools.png"
+code: "https://gitlab.cern.ch/tprebiba/beam-analysis-sandbox"
+code_host: "GitLab"
+order: 1
 ---
 
 A collection of standalone Python packages or script libraries for:

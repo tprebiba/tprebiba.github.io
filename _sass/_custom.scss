@@ -1,0 +1,189 @@
+/* ==========================================================================
+   Site-specific styles (teaching, talks, repositories, CV, home page).
+   Loaded last, so rules here override the template.
+   ========================================================================== */
+
+$accent: $link-color;
+
+/* Shared list entries
+   ========================================================================== */
+
+.page__intro {
+  margin: 0 0 1.5em;
+  color: $gray;
+}
+
+.entry {
+  .archive__item-title {
+    margin-bottom: 0.25em;
+  }
+
+  .archive__item-excerpt p {
+    margin: 0.4em 0;
+  }
+}
+
+.entry__meta {
+  margin: 0.2em 0;
+  font-size: $type-size-6;
+  color: $gray;
+}
+
+.entry__links {
+  margin: 0.4em 0 0;
+  font-size: $type-size-6;
+
+  i {
+    margin-right: 0.2em;
+  }
+}
+
+/* Year headings on the Talks page */
+.archive .archive__subtitle {
+  margin-top: 1.6em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid $border-color;
+  color: $dark-gray;
+}
+
+/* Teaching: year chips
+   ========================================================================== */
+
+.entry__years {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin: 0.5em 0;
+}
+
+.archive .year-chip,
+.year-chip {
+  display: inline-block;
+  text-decoration: none !important;
+  padding: 0.1em 0.65em;
+  border: 1px solid mix(#fff, $accent, 60%);
+  border-radius: 999px;
+  font-size: $type-size-6;
+  font-weight: 600;
+  color: $accent;
+  text-decoration: none;
+  background: mix(#fff, $accent, 93%);
+
+  &:visited {
+    color: $accent;
+  }
+}
+
+a.year-chip:hover {
+  color: #fff;
+  background: $accent;
+  border-color: $accent;
+}
+
+span.year-chip {
+  color: $gray;
+  border-color: $border-color;
+  background: transparent;
+}
+
+/* Repositories: thumbnail cards
+   ========================================================================== */
+
+.repo-card {
+  margin-bottom: 1.8em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8em;
+
+  @include breakpoint($small) {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+}
+
+.repo-card__thumb {
+  flex: 0 0 auto;
+
+  img {
+    display: block;
+    width: 100%;
+    max-height: 160px;
+    object-fit: contain;
+    border: 1px solid $border-color;
+    border-radius: 4px;
+    background: #fff;
+
+    @include breakpoint($small) {
+      width: 180px;
+      height: 120px;
+    }
+  }
+}
+
+.repo-card__body {
+  flex: 1 1 auto;
+  min-width: 0;
+
+  .archive__item-title {
+    margin-top: 0;
+  }
+}
+
+/* CV
+   ========================================================================== */
+
+.cv-entry {
+  margin: 0 0 1.2em;
+
+  ul {
+    margin-top: 0.3em;
+    margin-bottom: 0;
+    font-size: 0.9em;
+  }
+
+  ul ul {
+    font-size: 1em; // nested bullets keep the same size, not shrink twice
+  }
+
+  li {
+    margin-bottom: 0.2em;
+  }
+
+  p {
+    margin: 0.3em 0 0;
+  }
+}
+
+.cv-entry__head {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0 1em;
+}
+
+.cv-entry__date {
+  flex: 0 0 auto;
+  font-size: $type-size-6;
+  color: $gray;
+  white-space: nowrap;
+}
+
+.cv-entry__where {
+  font-size: $type-size-6;
+  color: $gray;
+}
+
+.cv-skills {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.3em 1em;
+
+  dt {
+    font-weight: 600;
+  }
+
+  dd {
+    margin: 0;
+  }
+}

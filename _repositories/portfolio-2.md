@@ -1,7 +1,11 @@
 ---
 title: "PSB beam dynamics modeling with Xsuite"
-excerpt: "A full simulation pipeline for realistic modeling of beam dynamics in CERN’s Proton Synchrotron Booster (PSB) using [Xsuite](https://xsuite.readthedocs.io/en/latest/). <br/><img src='/images/psb-tracking.png' width='400'>"
+excerpt: "A full simulation pipeline for realistic modeling of beam dynamics in CERN’s Proton Synchrotron Booster (PSB) using [Xsuite](https://xsuite.readthedocs.io/en/latest/)."
 collection: repositories
+thumbnail: "psb-tracking.png"
+code: "https://github.com/tprebiba/psb-xsuite-tracking"
+code_host: "GitHub"
+order: 2
 ---
 
 This repository provides a full simulation pipeline for realistic modeling of beam dynamics in CERN’s Proton Synchrotron Booster (PSB) using [Xsuite](https://xsuite.readthedocs.io/en/latest/).  

@@ -1,0 +1,17 @@
+{% comment %}
+  Editions list for a teaching page. Reads `editions` and `material`
+  from the page's front matter.
+{% endcomment %}
+{% if page.material %}
+<p><a class="btn btn--small btn--inverse" href="{{ page.material }}"><i class="fab fa-github" aria-hidden="true"></i> Course material</a></p>
+{% endif %}
+{% if page.editions %}
+<h2>Editions</h2>
+<ul>
+  {% for e in page.editions %}
+  <li>
+    {% if e.url %}<a href="{{ e.url }}">{{ e.year }}</a>{% else %}{{ e.year }}{% endif %}{% if e.where %}, {{ e.where }}{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}

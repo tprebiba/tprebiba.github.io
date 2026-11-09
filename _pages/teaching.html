@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<p class="page__intro">Courses and hands-on sessions I have contributed to. Click a year to open that edition.</p>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign courses = site.teaching | sort: "order" %}
+{% for post in courses %}
+  {% include teaching-item.html %}
 {% endfor %}

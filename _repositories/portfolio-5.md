@@ -2,6 +2,10 @@
 title: "K-Modulation Analysis Application"
 excerpt: "A [PyQt](https://wiki.python.org/moin/PyQt) GUI for measuring and correcting the tune and beta-beating in the CERN Proton Synchrotron Booster."
 collection: repositories
+thumbnail: "thumbs/k-mod-app.png"
+code: "https://gitlab.cern.ch/tprebiba/k-mod-app-psb-ps"
+code_host: "GitLab"
+order: 5
 ---
 
 A [PyQt](https://wiki.python.org/moin/PyQt) GUI for measuring and correcting the tune and beta-beating in the CERN Proton Synchrotron Booster (PSB).
