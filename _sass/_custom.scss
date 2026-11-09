@@ -205,7 +205,7 @@ span.year-chip {
 
 .pub {
   margin: 0 0 0.9em;
-  font-size: $type-size-6;
+  font-size: 0.7em; // ~11px, one step below the other list text
   line-height: 1.45;
 
   > span {
