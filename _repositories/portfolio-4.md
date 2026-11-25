@@ -2,7 +2,7 @@
 title: "Supercycles Modeling and Beam Sharing in the CERN Injectors"
 excerpt: "A Python package for modeling, analyzing, and optimizing the scheduling of cycles and supercycles in the CERN proton injector complex (PSB, PS, and SPS)."
 collection: repositories
-thumbnail: "thumbs/supercycle_grid_example.png"
+thumbnail: "thumbs/gui_scenario_viewer.png"
 code: "https://github.com/tprebiba/supercycles"
 code_host: "GitHub"
 order: 4
@@ -17,4 +17,4 @@ It includes tools for:
 
 Explore this repository on [Github](https://github.com/tprebiba/supercycles).
 
-<br/><img src='/images/supercycle_grid_example.png' width='700'>
+<br/><img src='/images/gui_scenario_viewer.png' width='700'>

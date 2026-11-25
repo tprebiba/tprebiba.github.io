@@ -2,6 +2,13 @@
 # Generated from INSPIRE-HEP and CDS, then edited by hand. Newest first.
 # Fields: date (YYYY-MM), title, venue, authors, n_authors (if list is shortened), links.
 
+- date: "2026-09"
+  title: "Optimization of the SHiP cycle across the injectors"
+  venue: "CERN-HI-ECN3-NOTE-26-002"
+  authors: ["T. Prebibaj", "S. Albright", "F. Asvesta", "H. Bartosik", "S. Cettour Cave", "H. Damerau", "I. Mases Sole", "K. Li"]
+  links:
+    cds: "https://cds.cern.ch/record/2971786"
+
 - date: "2026-05"
   title: "Sensitivity of FCC-ee beam performance to resonance driving terms in the presence of beam–beam interactions"
   venue: "Proc. IPAC'26, Deauville, France, paper MOP1040"
